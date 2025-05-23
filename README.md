@@ -3,7 +3,9 @@ Use this however you like, this is prolly get me a 5 for the AP test, but I'll e
 **HOW TO USE**
 1. Open and edit video_to_ASCII.py and replace line 59 with your video file path
 2. Run the video_to_ASCII.py and wait for it to be done
+
 3a. Edit the codehs.py and in line 9, put wtv folder you have that contains ASCII .txt files and then run codehs.py
+
 3b. Upload your generated ASCII text files into a folder and upload codehs.py into codehs as a .py file. Then edit the codehs.py and in line 9, put wtv folder you have that contains ASCII .txt files and then run codehs.py
 
 (No exe for this one, all done in codehs, idk if it works on windows)
