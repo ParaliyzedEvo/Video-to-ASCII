@@ -1,4 +1,4 @@
-Use this however you like, this is prolly get me a 5 for the AP test, but I'll edit this and tell you what I got. Hope this code helps with your project.
+Use this however you like, this is prolly get me a 5 for the AP test, but I'll edit this and tell you what I got. Hope this code helps with your project. (Posted this after APs even though I finished it before winter break was so people didn't steal me code)
 
 **HOW TO USE**
 
